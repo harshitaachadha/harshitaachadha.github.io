@@ -17,6 +17,9 @@ In an ideathon hosted by the IEEE society's New Delhi chapter in March of 2019, 
 
 After numerous brainstorming sessions and discarded ideas, we stumbled upon the concept that would become PINNAC. Rather than relying on software solutions, we took a different approach by designing a discreet hairpin with a hidden mechanism for self-defense.
 
+<img src='/images/pinacc.png'>
+<center> <em> The weirdo looking down is yours truly </em></center>
+<br>
 PINNAC utilizes substances that are unfortunately often used to harm women and repurposes them as tools for escape and protection. The prototype features a concealed piston and injection system within the prongs of the hairpin. A simple push of a button deploys a needle, immobilizing attackers by targeting their vital points.
 
 Months of dedication were poured into perfecting the PINNAC prototype. In October of the following year, we filed for a patent, which has since been published by the Intellectual Property Rights Authority of India. We eagerly await its official grant, knowing that it has the potential to enhance women's security.
