@@ -1,8 +1,10 @@
+Personal website created using the academicpages jekyll theme.
+
 ## Checklist of Stuff
-- [] About Me Page
-- [] Projects Page
+- [X] About Me Page
+- [X] Projects Page
 - [X] Resume
 - [X] Publications
 - [X] Patents
-- [] Blog Posts
+- [X] Blog Posts
 - [X] Adding content to talks
