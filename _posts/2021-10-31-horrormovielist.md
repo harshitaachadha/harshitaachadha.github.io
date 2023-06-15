@@ -2,7 +2,7 @@
 title: 'Ultimate horror series/movie list'
 date: 2021-10-31
 permalink: /posts/2021/01/horrormovielist/
-excerpt: '<mark style="background-color: #fab4c8">Non-Tech Post</mark> Navigating the GRE: Strategies, Resources, and Insights for Conquering the Graduate School Admission Test.'
+excerpt: '<mark style="background-color: #fab4c8">Non-Tech Post</mark> Get ready for a spine-chilling journey with these top 10 creeptastic movies and series that will leave you sleeping with the lights on.'
 tags:
   - movie recommendations
   - horror
