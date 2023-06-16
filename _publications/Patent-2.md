@@ -2,7 +2,7 @@
 title: "PINACC: Pin attack device primarily used as a women's security provision"
 collection: patents
 permalink: /publications/patent-2
-excerpt: '<mark style="background-color: #d5c5fa">Patent</mark> PINNAC is a women's security provision that capitalizes on one's instinct to defend to create a protective mechanism. Developed over a period of one year (2019-2020), PINACC was filed to be patented in October of 2020. It has since been published in the gazette of The Department of Promotion of Industry and International Trade, Intellectual Property Office, Government of India (page-172) and the application is currently under consideration. '
+excerpt: '<mark style="background-color: #d5c5fa">Patent</mark> PINNAC is a women's security provision that capitalizes on one's instinct to defend to create a protective mechanism. Developed over a period of one year (2019-2020), PINACC was filed to be patented in October of 2020. It has since been published in the gazette of The Department of Promotion of Industry and International Trade, Intellectual Property Office, Government of India and the application is currently under consideration. '
 date: 2020-10-15
 venue: 'The Official Gazette of the Intellectual Property Rights Authority of India'
 year: '2020'
