@@ -2,7 +2,7 @@
 title: 'My GRE experience'
 date: 2021-10-10
 permalink: /posts/2021/01/greexperience/
-excerpt: '<mark style="background-color: #fab4c8">Non-Tech Post</mark> Navigating the GRE: Strategies, Resources, and Insights for Conquering the Graduate School Admission Test.'
+excerpt: '<mark style="background-color: #d7f792">Academic Post</mark> Navigating the GRE: Strategies, Resources, and Insights for Conquering the Graduate School Admission Test.'
 tags:
   - GRE
   - IELTS
