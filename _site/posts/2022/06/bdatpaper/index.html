@@ -19,7 +19,7 @@
 
 
 
-<title>Zoltar: The fortune telling AI - Harshita Chadha</title>
+<title>An Overview of Machine Learning-Based Predictions Techniques Using Dynamic Graphs - Harshita Chadha</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Harshita Chadha">
-<meta property="og:title" content="Zoltar: The fortune telling AI">
+<meta property="og:title" content="An Overview of Machine Learning-Based Predictions Techniques Using Dynamic Graphs">
 
 
-  <link rel="canonical" href="http://localhost:4000/posts/2020/10/ZoltarAI/">
-  <meta property="og:url" content="http://localhost:4000/posts/2020/10/ZoltarAI/">
+  <link rel="canonical" href="http://localhost:4000/posts/2022/06/bdatpaper/">
+  <meta property="og:url" content="http://localhost:4000/posts/2022/06/bdatpaper/">
 
 
 
-  <meta property="og:description" content="Tech Post Discover the fascinating world of Zoltar, an artificial conversation entity. This blog post provides an overview of its creation, the underlying concepts of conversational AI, and a technical glimpse into its working, complete with a captivating video conversation.">
+  <meta property="og:description" content="Tech Post Dynamic Graphs in Machine Learning: Exploring the Future of Predictive Analysis and Personalized Recommendations. Term paper written for Big Data and Analytics class - CSCI 6444.">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2020-10-31T00:00:00-07:00">
+  <meta property="article:published_time" content="2023-05-20T00:00:00-07:00">
 
 
 
@@ -257,15 +257,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Zoltar: The fortune telling AI">
-    <meta itemprop="description" content="Tech Post Discover the fascinating world of Zoltar, an artificial conversation entity. This blog post provides an overview of its creation, the underlying concepts of conversational AI, and a technical glimpse into its working, complete with a captivating video conversation.">
-    <meta itemprop="datePublished" content="October 31, 2020">
+    <meta itemprop="headline" content="An Overview of Machine Learning-Based Predictions Techniques Using Dynamic Graphs">
+    <meta itemprop="description" content="Tech Post Dynamic Graphs in Machine Learning: Exploring the Future of Predictive Analysis and Personalized Recommendations. Term paper written for Big Data and Analytics class - CSCI 6444.">
+    <meta itemprop="datePublished" content="May 20, 2023">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Zoltar: The fortune telling AI
+          <h1 class="page__title" itemprop="headline">An Overview of Machine Learning-Based Predictions Techniques Using Dynamic Graphs
 </h1>
           
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
@@ -279,7 +279,7 @@
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-10-31T00:00:00-07:00">October 31, 2020</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2023-05-20T00:00:00-07:00">May 20, 2023</time></p>
         
         
              
@@ -289,57 +289,19 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>In this blog post, I’m excited to talk about one of my project - Zoltar the AI. Zoltar is an artificial conversation entity that has the potential for both simplicity and tremendous growth. I’ll provide a brief overview of the project, its dependencies, and walk you through the main concepts involved in creating a conversational AI. Then, based on the knowledge gained, I’ll explain the technical workings of this project in detail. To conclude, I’ll share a video demonstrating a conversation I had with Zoltar. So, let’s dive right in!</p>
+        <blockquote>
+  <p>This blogpost showcases the introduction section of a term paper I wrote for a graduate level big data analytics course. The full article can be found <a href="/files/Chadha Harshita_Term Paper.pdf" target="_blank">here</a></p>
+</blockquote>
 
-<p>The Fortune Teller project, known as Zoltar, is an AI powered by a custom-made dataset created from subreddits and New York Times Horoscope Data. For simplicity, I chose to utilize Python’s NLTK package, which is well-suited for cloud-based environments. This project is completely data-driven, meaning that more data leads to better results. Now, let’s start from the beginning to understand what exactly an AI is and how it can engage in conversations without explicit programming.</p>
+<p>Graphs and graph representation learning have become an increasingly popular field of research in the past few years. The number of publications on these topics, as can be seen in Figure 1, has seen a tremendous surge in the past few years - a 1522.54% increase since the year 2000[1-3]. The widespread interest in this field can be attributed to the utility of graphs and their ability to accurately model real-life scenarios. Not only are graphs useful tools in the field of data analysis where they help visualize and analyze the nature of interactions between represented actors but they have also increasingly become integral to the field of machine learning and predictive analysis[4,5]. Traditionally, machine learning models have been trained on datasets that constitute instances inherently assumed to be independent of each other. However, as the complexity of applications increases, so does that of the subjects of predictive analysis, and thus more complex representations are warranted.</p>
 
-<p>AI is a sub-domain of data-driven computational practices that encompasses technologies like machine learning and deep learning. Back in 1955, Marvin Minsky and John McCarthy, both pioneers of Artificial Intelligence, defined it as any task that, if performed by a human, would be considered an application of intelligence. While traditional data-driven domains like machine learning focus on learning from data and making predictions, AI aims to replicate human behavior with notable success.</p>
+<p><img src="/images/bdatermp.png" /></p>
 
-<p>The fortune-telling AI uses data to comprehend sentence structure and the words provided. To delve deeper into its functioning, let’s familiarize ourselves with a few key terms:</p>
+<p>To substantiate the above point, the example of a simple content-based recommender system can be considered. In such a system the training examples typically consist of the past behavior of the customer and each training example or customer data in the training set is assumed to be independent of another. However, if user data is modeled as a graph and the underlying assumption that each data point is independent of the other is ignored, then the interactions and similarities that exist between each user may be captured more effectively. The consequent increase in information available leads to more personalized recommendations and enhanced user experience. In fact, state-of-the-art recommendation systems such as those employed by big corporations like Netflix and Amazon make use of network graph models to personalize user experience[6,7]. Thus, it can be concluded that graphical data as an input to machine learning algorithms helps make more accurate predictions for complex real-life situations simply because more information is captured.</p>
 
-<p>NLTK: Short for Natural Language Processing Toolkit, NLTK provides tools and functions for processing human language inputs. It is employed in various applications such as text classification, chatbots, sentiment analysis, and language translation. This is the main package used to build Zoltar.</p>
+<p>A majority of the current machine learning techniques for graphs work under the assumption that the underlying structure used to make predictions is static in nature but this is rarely true of real-life interactions [8,9]. For instance, in medical applications of machine learning, most of the captured patient data is time-variant and in fact, it is these timed variations that most often carry characterizing information. This is where dynamic graphs come into the picture. In addition to capturing the spatial information about the scenario they model, dynamic graphs also have a time component that helps capture temporal fluctuations of information. In terms of applications of dynamic graphs in predictive analysis, one way to handle this is to apply static graph machine learning techniques to time-variant graphs, however, the results obtained are more often than not sub-optimal. This warrants the need to develop dedicated frameworks capable of working with dynamic graphs. The field of the application of machine learning algorithms to dynamic graphs, however, is fairly new and most of the work focuses on extending static techniques by treating dynamic graphs as discrete time-stamped snapshots - a practice that is restrictive in nature. Only very recently techniques have started to emerge that treat dynamic graphs as continuous time entities that constantly evolve[10].</p>
 
-<ol>
-  <li>
-    <p>Tokenization: Tokenization is the process of dividing large quantities of text into smaller parts called tokens. It consists of word and sentence tokenization.</p>
-  </li>
-  <li>
-    <p>Word Tokenization: This operation is accomplished using the word_tokenize() function of NLTK, which splits a sentence into individual words.</p>
-  </li>
-  <li>
-    <p>Sentence Tokenization: The sent_tokenize() module is used to obtain a list of sentences from a paragraph, enabling us to analyze average words per sentence.</p>
-  </li>
-  <li>
-    <p>Stemming: Stemming is a process of linguistic normalization that reduces words to their root form or chops off derivational affixes. For instance, words like “connection,” “connected,” and “connecting” are reduced to the common word “connect.”</p>
-  </li>
-  <li>
-    <p>POS Tagging: POS tagging identifies the grammatical group of a given word and looks for relationships within the sentence, assigning a corresponding tag to each word.</p>
-  </li>
-  <li>
-    <p>Lemmatization: Lemmatization reduces words to their base form, ensuring linguistically correct lemmas. It is usually more sophisticated than stemming, as it takes into account the context of the word. For example, “better” is lemmatized to “good.”</p>
-  </li>
-  <li>
-    <p>Stop Words: Stop words are considered noise in text analysis. They are generic, repetitive, and irrelevant words that do not contribute significantly to the overall context. Removing stop words helps refine the data.</p>
-  </li>
-</ol>
-
-<p>Now that we have a grasp of these fundamental concepts, let’s gain a technical overview of how Zoltar operates.The first step is to collect relevant data for training the model. I sourced New York Times fortune data from Kaggle and selected subreddits as data sources. Next, sentence and word lemmatization are performed to understand the data at its basic building units.</p>
-
-<p>Following this, irrelevant content such as stop words and punctuation marks are removed. Sentence vectorization is then used to group the stripped sentences into a bag-of-words model.The model is now ready to take user input and generate the most appropriate response by performing cosine similarity operations.</p>
-
-<p>And there you have it! Your very own conversational AI, Zoltar, is now ready to hold stimulating conversations (well, not quite). To gain deeper insights into the project or try building it yourself, feel free to refer to the GitHub repository <a href="https://github.com/harshitaachadha/Zoltar-The-fortune-telling-AI" target="_blank">here</a> for the code and data. As a bonus, I recorded a conversation I had with Zoltar and added some creepy music to set the ambiance. Enjoy the video!</p>
-
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="/files/file.mp4" type="video/mp4" />
-  </video>
-</figure>
-<!-- blank line -->
-
-<p>If you have any questions about the terms or the project itself, don’t hesitate to reach out to me. I’m also open to discussing any improvements or additions you may have in mind for Zoltar.</p>
-
-<hr />
+<p>The objective of this term paper is to study some of the most recent machine-learning techniques that have been applied to dynamic graphs to obtain useful predictions. The paper is divided into five main sections. The present section serves as an introduction to the problem statement, this is followed by section two where a discussion of the importance of graphs to big data and analytics is done. In section three, an overview of dynamic graphs, major modeling techniques, and their areas of application has been provided. In section four, we present the latest machine learning frameworks that have been proposed for dynamic graphs and carry out a detailed discussion about graph representation learning algorithms and graph embedding strategies. Section number five serves to present the major conclusions drawn from the study undertaken and also discusses the future line of work that can be carried out in this domain.</p>
 
         
       </section>
@@ -364,15 +326,15 @@
     
       
       
-      <a href="http://localhost:4000/tags/#fortune-teller" class="page__taxonomy-item" rel="tag">Fortune Teller</a><span class="sep">, </span>
+      <a href="http://localhost:4000/tags/#dynamic-graphs" class="page__taxonomy-item" rel="tag">Dynamic Graphs</a><span class="sep">, </span>
     
       
       
-      <a href="http://localhost:4000/tags/#natural-language-processing" class="page__taxonomy-item" rel="tag">Natural Language Processing</a><span class="sep">, </span>
+      <a href="http://localhost:4000/tags/#graph-data" class="page__taxonomy-item" rel="tag">Graph data</a><span class="sep">, </span>
     
       
       
-      <a href="http://localhost:4000/tags/#nltk" class="page__taxonomy-item" rel="tag">NLTK</a>
+      <a href="http://localhost:4000/tags/#machine-learning" class="page__taxonomy-item" rel="tag">Machine Learning</a>
     
     </span>
   </p>
@@ -389,11 +351,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/posts/2020/10/ZoltarAI/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/posts/2022/06/bdatpaper/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/posts/2020/10/ZoltarAI/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/posts/2022/06/bdatpaper/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/posts/2020/10/ZoltarAI/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/posts/2022/06/bdatpaper/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -401,11 +363,11 @@
 
   <nav class="pagination">
     
-      <a href="#" class="pagination--pager disabled">Previous</a>
+      <a href="http://localhost:4000/posts/2022/06/csatpaper/" class="pagination--pager" title="An Overview of Artificial Intelligence Accelerators
+">Previous</a>
     
     
-      <a href="http://localhost:4000/posts/2021/01/projectguide/" class="pagination--pager" title="Your Next Big Weekend Project
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -421,48 +383,6 @@
         <h4 class="page__related-title">You May Also Enjoy</h4>
       
       <div class="grid__wrapper">
-        
-          
-
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/posts/2022/06/bdatpaper/" rel="permalink">An Overview of Machine Learning-Based Predictions Techniques Using Dynamic Graphs
-</a>
-      
-    </h2>
-    
-    
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-  
-	  4 minute read
-	
-</p>
-    
-
-        
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2023-05-20T00:00:00-07:00">May 20, 2023</time></p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p><mark style="background-color: #b4e7fa">Tech Post</mark> Dynamic Graphs in Machine Learning: Exploring the Future of Predictive Analysis and Personalized Recommendations. Term paper written for Big Data and Analytics class - CSCI 6444.</p>
-</p>
-    
-    
-    
-
-  </article>
-</div>
-
         
           
 
@@ -581,6 +501,48 @@
 
     
     <p class="archive__item-excerpt" itemprop="description"><p><mark style="background-color: #d7f792">Academic Post</mark> Navigating the GRE: Strategies, Resources, and Insights for Conquering the Graduate School Admission Test.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2021/01/projectguide/" rel="permalink">Your Next Big Weekend Project
+</a>
+      
+    </h2>
+    
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  6 minute read
+	
+</p>
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2021-01-23T00:00:00-08:00">January 23, 2021</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p><mark style="background-color: #b4e7fa">Tech Post</mark> Unleash your creativity with these five captivating project ideas, ranging from a friend debt counter app to an AI-powered songwriter, and find the perfect inspiration to kickstart your next weekend endeavor.</p>
 </p>
     
     
