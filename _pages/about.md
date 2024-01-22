@@ -7,8 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an MS in Computer Science student at George Washington University. My area of concentration is Machine Learning and Data Science. I will be graduating in May 2024 and am currently seeking internship or full-time opportunities.
+<div style="text-align: justify;">
+I am an MS in Computer Science student at George Washington University. My area of concentration is Data Science & Analytics. I will be graduating in May 2024 and am currently seeking full-time employment opportunities.
+<br><br>
+My specialty lies in crafting compelling narratives from complex data sources. Through my professional experiences at organizations such as Sanofi and the Ministry of Electronics and Information Technology of India, I have honed the ability to distill data into insightful stories that resonate with diverse audiences. As an aspiring data professional, I bring not only technical proficiency but also a passion for data-driven storytelling to the table.
+<br><br>
+In 2022, obtained my bachelor's degree in Computer Engineering from GGSIP University in New Delhi, India. During this time, I also founded my own AI innovations lab - <a heref="https://merakilab.github.io/"> Meraki</a>. The lab portfolio constitutes multiple patron-funded projects at various stages in the patent pipeline. Beyond my academic pursuits, I have a strong passion for music. I play multiple instruments and sometimes compose unreleased diss tracks. I am an avid reader and also constantly seek unconventional ways to learn new languages!
+</div>
 
-I obtained my bachelor's degree in Computer Science and Engineering from GGSIPU University in New Delhi, India where I gained expertise in core computer science subjects. On the academic research front, I collaborated with [Dr. Neelam Sharma](https://cse.mait.ac.in/index.php/people/faculty/profile?layout=edit&id=549){:target="_blank"} and her group to produce multiple original articles. My professional experience includes internships at renowned organizations such as Sanofi and the Ministry of Electronics and Information Technology of India. These roles have allowed me to work in diverse fields, ranging from the cloud and IoT (Internet of Things) to data science and artificial intelligence applications. In my junior year, I founded my own AI innovations lab - [Meraki](https://merakilab.co.in/){:target="_blank"}. The lab portfolio constitutes multiple patron-funded projects at various stages in the patent pipeline.
+## Recent Tableau Public Dashboards
 
-Beyond my academic pursuits, I have a strong passion for music. I play multiple instruments and sometimes compose unreleased diss tracks. I am an avid reader and constantly seek unconventional ways to learn new languages, such as immersing myself in popular culture and music.
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+
+  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <h3><center>World Happiness Report Deep Dive</center></h3>
+  <center> (click image to access dashboard)</center><br>
+  <a href="https://public.tableau.com/app/profile/harshita.chadha/viz/WorldHappinessReportDeepDive/EverElusiveHappiness"><img src='/images/tab1.png'></a>
+  </div>
+
+  <div style="flex: 1; margin-left: 20px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <h3><center>Evolution of Crimes in the US </center></h3>
+  <center> (click image to access dashboard)</center><br>
+    <a href="https://public.tableau.com/app/profile/harshita.chadha/viz/EvolutionofCrimeintheUS/Dashboard1"><img src='/images/tab2.png'></a>
+  </div>
+
+</div>

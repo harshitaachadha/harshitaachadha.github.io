@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Harshita Chadha"
 title_separator          : "-"
 name                     : &name "Harshita Chadha"
-description              : &description "MS in Computer Science student at George Washington University"
+description              : &description "Aspiring Data Professional | MS in CS @ George Washington University"
 url                      : https://harshitaachadha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harshitaachadha/harshitaachadha.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Harshita Chadha"
   avatar           : "profile.png"
-  bio              : "MS in Computer Science student at George Washington University"
+  bio              : "Aspiring Data Professional  Masters in CS student"
   location         : "Washington, D.C."
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9tgEOZQAAAAJ&hl=en"
   email            : "harshitachadha@gwmail.gwu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  tableau        : "https://public.tableau.com/app/profile/harshita.chadha"
   bitbucket        :
   codepen          :
   dribbble         :

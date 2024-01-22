@@ -1,6 +1,6 @@
 ---
-title: "J.E.S.S.I.E. voice-assistant service"
-excerpt: "J.E.S.S.I.E. is a voice-assistant service in Python 3.7+ developed for the DSCBVP MANIFESTE hackathon. The project won the second prize. With its AI Automation capabilities, J.E.S.S.I.E. understands speech, executes commands, and delivers an efficient and personalized user experience. <br/><img src='/images/jessie.png'>"
+title: "J.E.S.S.I.E."
+excerpt: "<img src='/images/jessie.png'><br/><br/>A voice-assistant service in Python 3.7+ that understands speech, executes commands, and delivers an efficient and personalized user experience."
 collection: portfolio
 ---
 > Access the GitHub repository for the project [here](https://github.com/harshitaachadha/JESSIE){:target="_blank"}

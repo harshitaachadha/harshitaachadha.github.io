@@ -1,6 +1,6 @@
 ---
-title: "Determination of vital parameters using CV and face video feed"
-excerpt: "This project was developed as part of the 3 month long “Computer Vision and Signal Processing Internship” with MetFlux Research, a privately held, healthcare oriented startup at IIT Bombay. MATLAB, Python, and SOTA computer vision algorithms were used to create light-weight frameworks for realtime determination of Heart Rate, SpO2, Blood Pressure. <br/><img src='/images/plethysmo.png'>"
+title: "Vitals Detection Using Computer Vision"
+excerpt: "<img src='/images/plethysmo.png'><br/><br/>Using computer vision algorithms to detect Heart Rate, SpO2, and Blood Pressure from video feed."
 collection: portfolio
 ---
 > A brief presentation summarising the project and results can be found [here](/files/Semester 6 Summer Training.pdf){:target="_blank"}. The detailed report of training can be found [here](/files/Industrial training report 6th semester.pdf){:target="_blank"}.

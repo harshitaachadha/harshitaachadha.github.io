@@ -1,6 +1,6 @@
 ---
-title: "Cybernation - Teach yourself cybersecurity"
-excerpt: "A Django web application developed as part of a 3 month internship with India's Ministry of Electronics and Information Technology to raise awareness about web application attack vectors in the Indian cyber space through a hackable interface and valuable safe browsing insights.<br/><img src='/images/cybernation.png'>"
+title: "Cybernation"
+excerpt: "<img src='/images/cybernation.png'><br/><br/>Django web application to raise awareness about attack vectors in the Indian cyber space through a hackable interface."
 collection: portfolio
 ---
 > Access the GitHub repository for the project [here](https://github.com/harshitaachadha/The-Cybernation-Project---Teach-yourself-cybersecurity){:target="_blank"}

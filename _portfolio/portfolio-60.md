@@ -1,6 +1,6 @@
 ---
-title: "Battle of Neighbourhoods - Moving recommendations"
-excerpt: "A K-means clustering based recommendation system powered by locality related data sourced from the foursquare API. The user can enter the coordinates of a preferred neighborhood and be provided in return with a list of all the other neighborhoods in the city with similar properties.<br/><img src='/images/battle.png'>"
+title: "Recommender Engine"
+excerpt: "<img src='/images/battle.png'><br/><br/>K-means clustering based recommendation system to get moving recommendations based on neighborhood data."
 collection: portfolio
 ---
 > Access the GitHub repository for the project [here](https://github.com/harshitaachadha/Battle-of-the-neighbourhoods-ML-based-moving-recommendations){:target="_blank"}
