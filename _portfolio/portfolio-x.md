@@ -1,6 +1,6 @@
 ---
-title: "Cybernation"
-excerpt: "<img src='/images/cybernation.png'><br/><br/>Django web application to raise awareness about attack vectors in the Indian cyber space through a hackable interface."
+title: "Vulnerable-Hackable Django Web Application"
+excerpt: "<img src='/images/cybernation.png'><br/><br/>Django web application to raise awareness about attack vectors in the Indian cyber space through a hackable interface. Developed during internship with India's Ministry of Electronics and Information Technology."
 collection: portfolio
 ---
 > Access the GitHub repository for the project [here](https://github.com/harshitaachadha/The-Cybernation-Project---Teach-yourself-cybersecurity){:target="_blank"}

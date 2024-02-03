@@ -1,0 +1,12 @@
+---
+title: "Using Classification to Date South African Artefacts"
+excerpt: "<img src='/images/arch2.png'><br/><br/>Building a Random Forest Classifier with class weight adjustment to handle skewness to predict the time period to which South African Radio Carbon dated artefacts belong."
+collection: portfolio
+---
+> Access the GitHub repository for the project [here](https://github.com/harshitaachadha/Data-Mining-in-Archeology){:target="_blank"}
+
+> Note: This project was developed as a term paper study for the graduate level course CSCI-6443-Data Mining under Prof.Bellaachia. The following is the abstract from the final term paper submission. Access the full text version of the article [here](/files/Chadha Harshita_Term Paper_ CSCI6443_Fall2023.pdf){:target="_blank"}. View a brief presentation [here](https://docs.google.com/presentation/d/1L2OayD-bh1KThuYxsuPug0c3iTLWBJXQLZG07eh7jpc/edit?usp=sharing){:target="_blank"}.
+
+This case study utilizes the Southern African Radio Carbon dataset as maintained by the Radiocarbon Accelerator Unit at the University of Oxford along with a random forest classifier in order to predict the Archeologic Period to which an artefact belongs. The South African Radio Carbon Dataset or SARD is an open-access online data repository maintained at the University of Oxford’s Radio Carbon Accelerator unit or ORAU. The dataset contains information on materials and their radiocarbon dates from South African Archaeological sites.
+
+The performance of Iron Age and LSA class is good at 92% and 96% respectively whereas the performance of the model for the MSA class is quite low at 40%. The F1 score which indicates the proportion of correct predictions made across the model values are similarly high for Iron Age and LSA. This indicates that despite oversampling and class weight metrics, the imbalance in class while not significantly impacting the overall model performance, remains a significant disadvantage of our model. And while these skewness handling techniques do help in improving the prediction capabilities in, the 89% difference in values between MSA and the Iron age class in terms of samples can only truly be bridged using more data. Overall, using the SARD we successfully built a reasonably performing model that given characteristics about a sample can act as a precursor to complicated radio carbon dating procedures and offer initial indicators about the time period of origin of an unearthed artefact.

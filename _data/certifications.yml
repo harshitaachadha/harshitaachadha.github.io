@@ -1,0 +1,12 @@
+- name: IBM Data Science Professional Certification
+  image: /images/certification1.png
+- name: Microsoft Power BI Data Analyst Professional Certificate
+  image: /images/certification2.png
+- name: Tableau Business Intelligence Analyst Professional Certificate
+  image: /images/certification3.png
+- name: Amazon AWS Certified Cloud Practitioner Certification
+  image: /images/certification4.png
+- name: IBM NoSQL, Big Data, and Spark Foundations Specialization
+  image: /images/certification1.png
+- name: Data Science with Databricks for Data Analysts Specialization
+  image: /images/certification6.png

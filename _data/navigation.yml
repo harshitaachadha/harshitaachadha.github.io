@@ -6,6 +6,9 @@ main:
     - title: "Resume"
       url: /files/Resume.pdf
 
+    - title: "Skills & Certifications"
+      url: /cv/
+
     - title: "Publications & Patents"
       url: /publications/
 

@@ -19,7 +19,7 @@
 
 
 
-<title>Predicting TV Series Ratings Using Text Scripts - Harshita Chadha</title>
+<title>Finding Frequent Item Sets in Buried Grave Goods - Harshita Chadha</title>
 
 
 
@@ -29,7 +29,7 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Harshita Chadha">
-<meta property="og:title" content="Predicting TV Series Ratings Using Text Scripts">
+<meta property="og:title" content="Finding Frequent Item Sets in Buried Grave Goods">
 
 
   <link rel="canonical" href="http://localhost:4000/portfolio/portfolio-2/">
@@ -37,7 +37,7 @@
 
 
 
-  <meta property="og:description" content="Using techniques such as named entity recognition, apriori algorithm and sentiment analysis to convert text script to attributes to predict TV series ratings using Ensemble Learning (Gradient and AdaBoost stacked model).">
+  <meta property="og:description" content="Using Apriori association rule mining algorithm on Digital Archive for Grave Goods in Later Prehistoric Britain to identify frequently buried together items">
 
 
 
@@ -154,6 +154,9 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/files/Resume.pdf">Resume</a></li>
           
             
+            <li class="masthead__menu-item"><a href="http://localhost:4000/cv/">Skills & Certifications</a></li>
+          
+            
             <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications & Patents</a></li>
           
             
@@ -254,15 +257,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Predicting TV Series Ratings Using Text Scripts">
-    <meta itemprop="description" content="Using techniques such as named entity recognition, apriori algorithm and sentiment analysis to convert text script to attributes to predict TV series ratings using Ensemble Learning (Gradient and AdaBoost stacked model).">
+    <meta itemprop="headline" content="Finding Frequent Item Sets in Buried Grave Goods">
+    <meta itemprop="description" content="Using Apriori association rule mining algorithm on Digital Archive for Grave Goods in Later Prehistoric Britain to identify frequently buried together items">
     
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Predicting TV Series Ratings Using Text Scripts
+          <h1 class="page__title" itemprop="headline">Finding Frequent Item Sets in Buried Grave Goods
 </h1>
           
         
@@ -277,16 +280,21 @@
 
       <section class="page__content" itemprop="text">
         <blockquote>
-  <p>Access the GitHub repository for the project <a href="https://github.com/harshitaachadha/Data-Mining-Script-Rating-Prediction" target="_blank">here</a></p>
+  <p>Access the GitHub repository for the project <a href="https://github.com/harshitaachadha/Data-Mining-in-Archeology" target="_blank">here</a></p>
 </blockquote>
 
 <blockquote>
-  <p>Note: This was developed as a final project for the graduate level course CSCI-6443-Data Mining under Prof.Bellaachia. The following is the abstract from the final term paper submission. Access the full text version of the article <a href="/files/Project Paper.pdf" target="_blank">here</a>. View a bried presentation <a href="https://docs.google.com/presentation/d/1ZRJMRGpX2i9WwD-16j99KR0kijen0d5Qbbbq4YMACAg/edit?usp=sharing" target="_blank">here</a>.</p>
+  <p>Note: This project was developed as a term paper study for the graduate level course CSCI-6443-Data Mining under Prof.Bellaachia. The following is the abstract from the final term paper submission. Access the full text version of the article <a href="/files/Chadha Harshita_Term Paper_ CSCI6443_Fall2023.pdf" target="_blank">here</a>. View a brief presentation <a href="https://docs.google.com/presentation/d/1L2OayD-bh1KThuYxsuPug0c3iTLWBJXQLZG07eh7jpc/edit?usp=sharing" target="_blank">here</a>.</p>
 </blockquote>
 
-<p>TV series are arguably one of the most lucrative sectors within the broader entertainment media industry. In the past decade, due to the advent of online streaming services, the number of such series available for audience consumption has been exponentially increasing. Although, it is a consumer-based industry, economic profitability lies at the center of this sector - for media houses expansion of revenue means more resources for improved production quality. Thus, optimizing the performance of a series and by extension the incidental monetary gain is a prime consideration. While various non-computational techniques have been used in the past to estimate series performance, these suffer from various bias problems thereby creating a need for computational/quantitative models to achieve the same functionality.</p>
+<p>In this case study, the data repository maintained at the Digital Archive for Grave Goods: Objects and Death in Later Prehistoric Britain as maintained by the UK’s Archaeology Data Service was used. This database contains information on grave artefacts from the Neolithic, Bronze Age, and Iron Age. The objective of the study is to use the dataset to explore relationships amongst the burial site attributes and the grave goods using association rule mining to identify the significance of specific goods occurrences within distinct cultural contexts and periods resulting in a holistic view of burial practices in older civilizations.</p>
 
-<p>Various statistical and predictive techniques are thus increasingly being applied in the entertainment industry to predict success to better orient the high investment needed for their preparation. This article introduces an approach that utilizes text analytics, natural language processing, and data mining techniques to extract quantitative features from the script corpus of the popular television series “Friends.” These features are then fed into ensemble learning models, including stacked architectures, Gradient Boost, AdaBoost, among others, to predict IMDb ratings for the scripts. Positioned at the intersection of the technological evolution of the media production industry, this project combines diverse data sources and employs advanced data mining methods to provide a robust and objective tool for estimating episode reception amongst consumers.</p>
+<p>Starting with data from the region of East Yorkshire, the application of the Apriori algorithm produced the frequent item sets. In this case, the presence of the set (Brooch, Animal remains, Pot) might suggest a burial practice where individuals were adorned with brooches, and animal remains and pots were included in the burial as offerings or for symbolic purposes. Further, he presence of spearheads and swords together could indicate a warrior burial or a community with a strong martial tradition. The presence of (Scabbard, Sword) set reinforces the martial aspect, suggesting the inclusion of sword-related items in burials. In addition the presence of (Scraper, Knife) set might suggest a burial related to craftsmanship or daily activities involving tools. The presence of a chariot or cart along with animal remains might indicate a burial with elements of transportation and perhaps a higher social status.</p>
+
+<p>Next, for the region of Kent, the presence of the combination of a bucket and brooch might suggest a burial with items associated with personal adornment and daily use. The identification of the (Beads, Animal remains) set could further indicate a
+burial with a focus on personal ornamentation and the importance of animals in the cultural or economic context. The combination of (Bucket, Animal remains, Pot) suggests a burial with a mix of functional and symbolic artifacts. For the region of Cornwall, the presence of (Brooch, Rings) set suggests a burial with items associated with personal adornment, indicating a focus on aesthetics – similar to Kent. The presence of shells and animal remains might signify a burial with items related to the natural environment or possibly ritual practices. The (Pebble, Arrowhead) set is intriguing and may suggest a burial with items associated with hunting or ritual significance.</p>
+
+<p>Finally for the region of Orkney and Outer Hebrides, the item sets identified are by far the most characteristic and definitive of the 4 sites studied. The (Point, Animal remains) set could indicate a burial associated with hunting or possibly ritual practices. The (Beads, Awl) and (Beads, Blade) sets suggest burials with items related to craftsmanship or personal ornamentation. The (Flake, Scraper) and (Flake, Scraper, Pot) sets suggest burials with items associated with tool use and possibly daily activities. Thus Orkney and Outer Hebrides burial finds suggest a population with a strong focus on hunting, craftsmanship, and daily tool use.</p>
 
         
       </section>
@@ -319,11 +327,11 @@
 
   <nav class="pagination">
     
-      <a href="http://localhost:4000/portfolio/portfolio-1/" class="pagination--pager" title="Data Mining in Archeology
+      <a href="http://localhost:4000/portfolio/portfolio-1/" class="pagination--pager" title="Identifying Trade Trends in Greek Pottery
 ">Previous</a>
     
     
-      <a href="http://localhost:4000/portfolio/portfolio-20/" class="pagination--pager" title="Scalnet7
+      <a href="http://localhost:4000/portfolio/portfolio-3/" class="pagination--pager" title="Using Classification to Date South African Artefacts
 ">Next</a>
     
   </nav>
