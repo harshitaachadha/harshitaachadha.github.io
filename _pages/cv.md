@@ -36,38 +36,3 @@ author_profile: true
   </div>
 
 </div>
-<!--
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 20px;">
-<div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
-  <img src='/images/certification4.png' style="width: 100%; max-width: 220px; height: auto;">
-  <h3><center>Amazon AWS Certified Cloud Practitioner Certification</center></h3>
-</div>
-
-<div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
-  <img src='/images/certification5.png' style="width: 100%; max-width: 220px; height: auto;">
-  <h3><center>Mastering Data Analysis in Excel</center></h3>
-</div>
-
-<div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
-  <img src='/images/certification6.png' style="width: 100%; max-width: 220px; height: auto;">
-  <h3><center>Data Science with Databricks for Data Analysts Specialization</center></h3>
-</div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 20px;">
-
-<div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
-  <img src='/images/certification1.png' style="width: 100%; max-width: 220px; height: auto;">
-  <h3><center>IBM NoSQL, Big Data, and Spark Foundations Specialization</center></h3>
-</div>
-<div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
-  <img src='/images/certification7.png' style="width: 100%; max-width: 220px; height: auto;">
-  <h3><center><a href="/images/certific2.png">Python Data Structures</a></center></h3>
-</div>
-<div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
-  <img src='/images/certification8.png' style="width: 100%; max-width: 220px; height: auto;">
-  <h3><center>Probability & Statistics for Machine Learning & Data Science</center></h3>
-</div>
-
-</div>
--->
