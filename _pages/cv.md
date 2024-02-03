@@ -36,7 +36,7 @@ author_profile: true
   </div>
 
 </div>
-
+<!--
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 20px;">
 <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px; max-width: 260px; margin-bottom: 20px;">
   <img src='/images/certification4.png' style="width: 100%; max-width: 220px; height: auto;">
@@ -70,3 +70,4 @@ author_profile: true
 </div>
 
 </div>
+-->
