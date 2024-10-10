@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am an MS in Computer Science student at George Washington University. My area of concentration is Data Science & Analytics. Set to graduate in May 2024 and seeking exciting opportunities!
+IT Project Manager with an MS in Computer Science from George Washington University.
 <br><br>
-My specialty lies in crafting compelling narratives from complex data sources. Through my professional experiences, I have honed the ability to distill data into insightful stories that resonate with diverse audiences. As an aspiring data professional, I bring not only technical proficiency but also a passion for data-driven storytelling to the table.
+My focus? Transforming chaos into streamlined solutions. With a strong technical foundation, I specialize in managing complex projects, turning data insights into actionable strategies, and collaborating across teams to deliver impactful results. I’m passionate about driving innovation and efficiency, and I’m ready to bring that energy to teams.
 <br><br>
-In 2022, obtained my bachelor's degree in Computer Science. During this time, I also founded my own AI innovations lab - <a href="https://merakilab.github.io/"> Meraki</a>. The lab portfolio constitutes multiple patron-funded projects at various stages in the patent pipeline. Beyond my academic pursuits, I have a strong passion for music. I play multiple instruments and sometimes compose unreleased diss tracks. I am an avid reader and also constantly seek unconventional ways to learn new languages! <a href="/images/lang_viz.png">(Visualizing languages I can say 👋🏼 in)</a>
+In 2022, obtained my bachelor's degree in Computer Engineering. During this time, I also founded my own AI innovations lab - <a href="https://merakilab.github.io/"> Meraki</a>. The lab portfolio constitutes multiple patron-funded projects at various stages in the patent pipeline. Beyond my academic pursuits, I have a strong passion for music. I play multiple instruments and sometimes compose unreleased diss tracks. I am an avid reader and also constantly seek unconventional ways to learn new languages! <a href="/images/lang_viz.png">(Visualizing languages I can say 👋🏼 in)</a>
 </div>
 
 ## Recent Tableau Public Dashboards
