@@ -21,15 +21,15 @@ In 2022, obtained my bachelor's degree in Computer Science. During this time, I 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
 
   <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h3><center>World Happiness Report Deep Dive</center></h3>
+  <h3><center>Exploring Twenty One Pilots' Discography</center></h3>
   <center> (click image to access dashboard)</center><br>
-  <a href="https://public.tableau.com/app/profile/harshita.chadha/viz/WorldHappinessReportDeepDive/EverElusiveHappiness"><img src='/images/tab1.png'></a>
+  <a href="https://public.tableau.com/app/profile/harshita.chadha/viz/ExploringTwentyOnePilotsDiscography/ExploringTwentyOnePilotsDiscography"><img src='/images/tab1.png'></a>
   </div>
 
   <div style="flex: 1; margin-left: 20px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h3><center>Evolution of Crimes in the US </center></h3>
+  <h3><center>Tracking the Evolution of World Happiness Rankings</center></h3>
   <center> (click image to access dashboard)</center><br>
-    <a href="https://public.tableau.com/app/profile/harshita.chadha/viz/EvolutionofCrimeintheUS/Dashboard1"><img src='/images/tab2.png'></a>
+    <a href="https://public.tableau.com/app/profile/harshita.chadha/viz/TrackingtheEvolutionofHapinessRankings/MainDash"><img src='/images/tab2.png'></a>
   </div>
 
 </div>
