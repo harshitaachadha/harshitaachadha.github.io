@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Harshita Chadha | Product Manager"
+title                    : "Harshita Chadha"
 title_separator          : "-"
 name                     : &name "Harshita Chadha"
 description              : &description "Harshita's Portoflio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,13 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Harshita Chadha"
   pronouns         : # example: "she/her"  
-  bio              : "Product Manager"
+  bio              : "Product thinking + program muscle: I turn messy ambiguity into shipped outcomes."
   location         : "Virginia, United States"
   uri              : # URL
-  email            : "" 
+  email            : 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9tgEOZQAAAAJ&hl=en"
 
 
   # Repositories and software development
@@ -40,7 +40,7 @@ author:
      
 
   # Social media
-  linkedin         : # harshitachadha
+  linkedin         : "https://www.linkedin.com/in/harshita-chadha/"
   pinterest        : # Username
  
 # Publication Category - The following the list of publication categories and their headings
