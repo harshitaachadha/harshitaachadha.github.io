@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Using transfer learning to quantify user color bias in movie poster selection for neuromarketing applications<br />IEMIS 2022: 3rd International Conference on Emerging Technologies in Data Mining and Information Security; Kolkata, West Bengal, India",
+    22.5726459,
+    88.3638953
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Unsusual Tech Careers<br />Maharaja Agrasen Institute of Technology; New Delhi, India",
+    28.6138954,
+    77.2090057
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Data is Beautiful<br />Google Developer Student Clubs - Maharaja Agrasen Institute of Technology; New Delhi, India",
+    28.6138954,
+    77.2090057
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Towards more energy efficient routing protocols for wireless sensor networks<br />Machine Intelligence and Data Science Applications; Cumilla, Bangladesh",
+    23.4628834,
+    91.1827987
+  ],
+  [
+    "Creating a custom locale based college recommendation system using K-means Clustering<br />Virtual Multidisciplinary International Conference on Futuristic Trends for Sustainable Ecosystem; Ahmedabad, Gujarat, India",
+    23.0215374,
+    72.5800568
   ]
 ];
