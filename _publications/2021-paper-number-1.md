@@ -1,14 +1,15 @@
 ---
-title: "A Novel Hybrid Clustering Based Transmission Protocol for Wireless Body Area Networks"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publications/2021-paper-number-1
-excerpt: '<mark style="background-color: #a2daf2">Journal Article</mark> The research paper proposes a hybrid clustering-based packet propagation protocol to enhance the throughput of wireless sensor networks. By combining machine learning clustering and traditional forwarding functions, the protocol achieves significant improvements in network productivity and throughput values.'
-date: 2021-07-21
-venue: 'Computers, Materials & Continua'
-year: '2021'
-authors: 'Neelam Sharma, Harshita Chadha, Karan Singh, B. M. Singh, Nitish Pathak'
-arxiv:
-paperurl:
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: "This paper is about the number 1. The number 2 is left for future work."
+date: 2009-10-01
+venue: "Journal 1"
+slidesurl: "https://academicpages.github.io/files/slides1.pdf"
+paperurl: "https://academicpages.github.io/files/paper1.pdf"
+bibtexurl: "https://academicpages.github.io/files/bibtex1.bib"
+citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
 
 ---
 **Abstract:**
