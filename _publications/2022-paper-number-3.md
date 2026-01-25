@@ -1,7 +1,7 @@
 ---
 title: "College Recommendation System Using K-Means Algorithm"
 collection: publications
-permalink: /publications/2022-paper-number-3
+permalink: /publication/2022-paper-number-3
 excerpt: '<mark style="background-color: #c4f2a2">Conference Article</mark> Utilizing massive online data and the foursquare application programming interface, the colleges across the US have been clustered into groups based on the similarity indexes.'
 date: 2022-09-28
 venue: 'Futuristic Trends for Sustainable Development and Sustainable Ecosystems'
