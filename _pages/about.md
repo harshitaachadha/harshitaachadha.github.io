@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: 
+title: "What I Build & How I Think"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## What I Build & How I Think
 
 I’m a product-minded manager with a background in computer engineering and applied AI, focused on turning ambiguity into systems that actually ship.
 
