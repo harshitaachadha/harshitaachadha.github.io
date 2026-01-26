@@ -1,14 +1,11 @@
 ---
 title: "College Recommendation System Using K-Means Algorithm"
 collection: publications
-permalink: /publication/2022-paper-number-3
+category: manuscripts
+permalink: /publication/2022-College-K-Means-Recommendations
 excerpt: '<mark style="background-color: #c4f2a2">Conference Article</mark> Utilizing massive online data and the foursquare application programming interface, the colleges across the US have been clustered into groups based on the similarity indexes.'
 date: 2022-09-28
 venue: 'Futuristic Trends for Sustainable Development and Sustainable Ecosystems'
-year: '2022'
-authors: 'Harshita Chadha, Shruti Gupta, Neelam Sharma, Nitish Pathak'
-arxiv:
-paperurl:
 
 ---
 **Abstract:**
