@@ -13,8 +13,6 @@ My work sits at the intersection of **product strategy, technical execution, and
 
 I think of products as living systems: users, workflows, incentives, and interfaces interacting over time. The best ones feel intentional, calm, usable, and designed to evolve through learning.
 
----
-
 ## How I Build Products
 
 **🔍 Discover → 🧭 Define → 🛠 Build → 🚀 Ship → 📊 Learn → 🔁 Repeat**
@@ -22,8 +20,6 @@ I think of products as living systems: users, workflows, incentives, and interfa
 Product work starts with context: users, constraints, risks, and the problem worth solving. Ambiguity is shaped into clear goals and measurable outcomes, with tradeoffs made visible early. The focus remains on building the smallest meaningful solution that can validate direction.
 
 Shipping is intentional. Quality, timelines, and communication are treated as first-class concerns. After launch, real-world signals: data, feedback, and edge cases guide what evolves next. The cycle repeats as the product grows.
-
----
 
 ## Background
 
@@ -33,8 +29,6 @@ As an undergraduate, I founded Meraki, an AI innovations lab focused on developi
 You can explore the lab here: [Meraki](https://merakilab.github.io/)
 
 Since then, I’ve worked across the spectrum, from early-stage initiatives to large-scale enterprise systems. I currently work at Maximus, where I operate as a product-focused manager, partnering closely with engineering, security, and business teams to move ideas from concept to impact.
-
----
 
 ## Beyond the Work
 
