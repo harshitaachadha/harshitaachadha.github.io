@@ -2,7 +2,7 @@
 title: 'Your Next Big Weekend Project'
 date: 2021-01-23
 permalink: /posts/2021/01/projectguide/
-excerpt: '<mark style="background-color: #b4e7fa">Tech Post</mark> Unleash your creativity with these five captivating project ideas, ranging from a friend debt counter app to an AI-powered songwriter, and find the perfect inspiration to kickstart your next weekend endeavor.'
+excerpt: 'Unleash your creativity with these five captivating project ideas, ranging from a friend debt counter app to an AI-powered songwriter, and find the perfect inspiration to kickstart your next weekend endeavor.'
 tags:
   - projects
   - ideas
