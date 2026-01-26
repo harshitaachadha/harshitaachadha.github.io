@@ -2,7 +2,7 @@
 title: 'An Overview of Artificial Intelligence Accelerators'
 date: 2022-12-15
 permalink: /posts/2022/06/csatpaper/
-excerpt: '<mark style="background-color: #b4e7fa">Tech Post</mark> From Algorithms to AI Accelerators: Unraveling the Evolution of Computer Hardware in the Age of Artificial Intelligence. Term paper written for Computer System Architecture class - CSCI 6461.'
+excerpt: 'From Algorithms to AI Accelerators: Unraveling the Evolution of Computer Hardware in the Age of Artificial Intelligence. Term paper written for Computer System Architecture class - CSCI 6461.'
 tags:
   - Artificial Intelligence
   - Accelerators
